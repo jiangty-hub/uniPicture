@@ -1,0 +1,26 @@
+[
+  {
+    "image_src": "https://github.com/jiangty-hub/uniPicture/blob/main/picture1.jpg",
+    "open_type": "navigate",
+    "goods_id": 101,
+    "navigator_url": "/pages/goods_detail/main?goods_id=101"
+  },
+  {
+    "image_src": "https://github.com/jiangty-hub/uniPicture/blob/main/picture2.jpg",
+    "open_type": "navigate",
+    "goods_id": 102,
+    "navigator_url": "/pages/goods_detail/main?goods_id=102"
+  },
+  {
+    "image_src": "https://github.com/jiangty-hub/uniPicture/blob/main/picture3.jpg",
+    "open_type": "navigate",
+    "goods_id": 103,
+    "navigator_url": "/pages/goods_detail/main?goods_id=103"
+  },
+  {
+    "image_src": "https://github.com/jiangty-hub/uniPicture/blob/main/picture4.jpg",
+    "open_type": "navigate",
+    "goods_id": 104,
+    "navigator_url": "/pages/goods_detail/main?goods_id=104"
+  }
+]
